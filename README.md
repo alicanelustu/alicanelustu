@@ -9,7 +9,7 @@ solutions. I am also good at teamwork, have a strong ability to cope with challe
 <div>&nbsp;&nbsp;I have knowledge in UI, API, Mobile, Manual, and Automated testing. I use the Java
 programming language for tests. I can set up and &nbsp;&nbsp;&nbsp;&nbsp;use Appium, Selenium, JUnit, TestNG,
 and Cucumber frameworks. I can automate API tests with Rest-Assured. I can perform
-both manual and <span align= "left">&nbsp;&nbsp;&nbsp;automated tests in Postman. I can use Jira and X-Ray for project and
+both &nbsp;&nbsp;manual and <span align= "left">&nbsp;&nbsp;&nbsp;automated tests in Postman. I can use Jira and X-Ray for project and
 task management, as well as error tracking</span></div>
 
 <br>
