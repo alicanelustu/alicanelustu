@@ -1,6 +1,16 @@
 <h1 align="center">Hi human 👋, I'm Alican Elustu</h1>
 <h3 align="center">Software Test Engineer</h3>
 
+<p align = "center">I have strong analytical thinking, problem-solving, decision-making, logical, and critical
+thinking skills. Thanks to my attention to detail, I can provide high-quality software
+solutions. I am also good at teamwork, have a strong ability to cope with challenges, and
+can communicate well with people at all levels.
+I have knowledge in UI, API, Mobile, Manual, and Automated testing. I use the Java
+programming language for tests. I can set up and use Appium, Selenium, JUnit, TestNG,
+and Cucumber frameworks. I can automate API tests with Rest-Assured. I can perform
+both manual and automated tests in Postman. I can use Jira and X-Ray for project and
+task management, as well as error tracking</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alicanelustu&label=Profile%20views&color=0e75b6&style=flat" alt="alicanelustu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alicanelustu" alt="alicanelustu" /></a> </p>
