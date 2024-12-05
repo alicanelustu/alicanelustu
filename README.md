@@ -5,8 +5,7 @@
   I have strong analytical thinking, problem-solving, decision-making, logical, and critical
 thinking skills. Thanks to my attention to detail, I can provide high-quality software
 solutions. I am also good at teamwork, have a strong ability to cope with challenges, and
-can communicate well with people at all levels. <br>
-I have knowledge in UI, API, Mobile, Manual, and Automated testing. I use the Java
+can communicate well <p align = "left">with people at all levels.</p><br>I have knowledge in UI, API, Mobile, Manual, and Automated testing. I use the Java
 programming language for tests. I can set up and use Appium, Selenium, JUnit, TestNG,
 and Cucumber frameworks. I can automate API tests with Rest-Assured. I can perform
 both manual and automated tests in Postman. I can use Jira and X-Ray for project and
