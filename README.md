@@ -1,7 +1,8 @@
 <h1 align="center">Hi human 👋, I'm Alican Elustu</h1>
 <h3 align="center">Software Test Engineer</h3>
 
-<p align = "center">I have strong analytical thinking, problem-solving, decision-making, logical, and critical
+<p align = "center">
+  I have strong analytical thinking, problem-solving, decision-making, logical, and critical
 thinking skills. Thanks to my attention to detail, I can provide high-quality software
 solutions. I am also good at teamwork, have a strong ability to cope with challenges, and
 can communicate well with people at all levels. <br>
