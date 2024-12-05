@@ -5,7 +5,7 @@
   I have strong analytical thinking, problem-solving, decision-making, logical, and critical
 thinking skills. Thanks to my attention to detail, I can provide high-quality software
 solutions. I am also good at teamwork, have a strong ability to cope with challenges, and
-can communicate <br> <div align = "left">&nbsp;&nbsp;&nbsp;&nbsp;  well with people at all levels.</div> </div>
+can communicate <div align = "left">well with people at all levels.</div> </div>
 <br>
 <div>&nbsp;&nbsp;I have knowledge in UI, API, Mobile, Manual, and Automated testing. I use the Java
 programming language for tests. I can set up and use &nbsp;&nbsp;&nbsp;Appium, Selenium, JUnit, TestNG,
